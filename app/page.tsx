@@ -11,8 +11,8 @@ export default function DashboardPage() {
           <DashboardProfile 
             name="UnknownUser"
             walletId="0xCa...6C25"
-            multiplier={2.4}
-            avatarUrl="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y"
+            multiplier={1}
+            avatarUrl="https://cdn.dribbble.com/userupload/9418415/file/original-3656f30e44c3bdd4d7b2818befb03749.jpg"
           />
           <div className="space-y-6">
             <SolidScore score={360} maxScore={800} increase={32} />
